@@ -1,0 +1,34 @@
+body{   background:linear-gradient(to right,lightblue,lightpink)}
+h1{ color: darkblue;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight:bold;
+    text-decoration: underline;
+    background-color: azure;}
+h2{ color: dodgerblue;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color: azure;}
+h3{ color: cadetblue;
+    text-align: center;
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: underline;
+    background-color: azure;}
+p { color: navy;
+    text-align: center;
+    font-family: Arial;
+    font-size: 12px;
+    letter-spacing: 1px;}
+ul{ list-style: square; 
+    color:royalblue;
+    list-style-position: inside;}
+a { text-decoration: none;
+    color:deeppink;}
+div{border: 1px solid lightblue;
+    border-style: dotted;
+    border-width: 3px;}
