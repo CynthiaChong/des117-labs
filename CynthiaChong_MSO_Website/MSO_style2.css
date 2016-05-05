@@ -1,0 +1,5 @@
+h2{
+    font-family:"Nimbus Sans", sans-Serif;color:#53C3C3;
+}
+.container{background-color:#53C3C3;color:white;text-align: center}
+input:focus{background-color: beige}
